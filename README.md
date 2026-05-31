@@ -61,7 +61,17 @@ Tech Stack
 Hackathon
 
 Built for the STON.fi Vibe Coding Hackathon.
+Live Demo
 
-Status
+https://preview--ton-malam-ai.lovable.app/
 
-Currently under development.
+ Hackathon
+
+Built for the STON.fi Vibe Coding Hackathon – Wave 2.
+
+ Status
+
+Live and functional MVP.
+
+
+
