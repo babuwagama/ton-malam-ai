@@ -71,7 +71,11 @@ Built for the STON.fi Vibe Coding Hackathon – Wave 2.
 
  Status
 
-Live and functional MVP.
+Live and functional MVP
+
+⚠️ Note: This is an early preview/MVP prepared for the STON.fi Vibe Coding Hackathon Wave 2. Active development and improvements will continue during the official hackathon period (June 4–8, 2026).
+
+
 
 
 
